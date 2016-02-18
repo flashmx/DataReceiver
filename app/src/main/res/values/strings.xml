@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DataReceiver</string>
+    <string name="pic">Received Picture</string>
 </resources>
